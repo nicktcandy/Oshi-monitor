@@ -4,4 +4,5 @@
 后端springboot + oshi , 前端echart + websocket刷新
 oshi已整合配套版本的的jna，可直接使用
 
-之后再补个预览图
+![1](https://user-images.githubusercontent.com/41567349/110957228-63e8f580-8386-11eb-8196-91a829225649.gif)
+
